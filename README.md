@@ -2,9 +2,11 @@
 ![finale020](https://user-images.githubusercontent.com/83480661/151657313-5d82f181-25aa-4bc1-b5a3-5cfa6e5d5b76.png)
 
 
-###### Hi5! This is my project for [Gitcoin DAO Reaction Stickers] 
+###### **Hi5! This is my project for [Gitcoin DAO Reaction Stickers]** 
  I made this bot originally for this project. 
- Also want to use my new character for some future bounties,
+
+Also want to use my new character for some future bounties,
 
 since i spent time on it and like the result, I hope you like it as well.. 
+
 Feedback /or Editing suggestions are more than welcome,so feel free to text me
