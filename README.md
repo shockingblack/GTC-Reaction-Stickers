@@ -1,7 +1,6 @@
+![finale010](https://user-images.githubusercontent.com/83480661/151657314-07d50d4b-37a7-4a7c-80f0-e8201e9a6611.png)
+![finale020](https://user-images.githubusercontent.com/83480661/151657313-5d82f181-25aa-4bc1-b5a3-5cfa6e5d5b76.png)
 
-![GitHub Dark](https://user-images.githubusercontent.com/83480661/151657265-15e15432-2120-4396-b1a7-2462bf5cccb5.png#gh-light-mode-only)
-
-![GitHub Light](https://user-images.githubusercontent.com/83480661/151657290-43e04ab6-907b-442d-b96e-5704ba387e9c.png#gh-dark-mode-only)
 
 ###### Hi5! This is my project for [Gitcoin DAO Reaction Stickers] 
 I made this bot originally for this project. 
