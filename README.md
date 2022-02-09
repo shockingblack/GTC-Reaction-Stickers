@@ -1,6 +1,6 @@
 
 ## **Hi5! This is my project for [Gitcoin DAO Reaction Stickers]** 
-###### I made this bot originally for this project. 
+###### I made this bot originally for this project and hope you like it as well.
 ###### Also I want to use my new character for future bounties,hope it's okay.
 ###### Feedback /or Editing suggestions are welcome, so feel free to text me..
 
